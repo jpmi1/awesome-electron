@@ -154,6 +154,7 @@ Made with Electron.
 - [Pubu](https://pubu.im) - Real-time chat for team communication. *(Chinese)*
 - [BearyChat](https://bearychat.com) - Team messaging service. *(Chinese)*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) - Official MongoDB app.
+- [SteamPool](http://steampool.com/) - Put your PC to work for you.
 
 
 ## Boilerplates
